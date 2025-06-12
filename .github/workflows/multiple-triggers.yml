@@ -1,4 +1,4 @@
-name: Test Project
+name: Multiple Triggers Workflow
 on : [push,workflow_dispatch]
 jobs :
     test:
