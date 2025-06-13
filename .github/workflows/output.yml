@@ -1,4 +1,4 @@
-name: Test Project
+name: INFO Workflow
 on : push
 jobs :
     info:
